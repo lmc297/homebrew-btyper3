@@ -11,7 +11,7 @@ class Btyper3 < Formula
   bottle :unneeded 
    
   def install
-    bin.install "ani.py", "blast.py", "btyper3", "build_btyper3_anib_db.py", "print_final_results.py", "seq_ani_db", "seq_bt_db", "seq_virulence_db"
+    bin.install "ani.py", "blast.py", "btyper3", "build_btyper3_ani_db.py", "print_final_results.py", "seq_ani_db", "seq_bt_db", "seq_virulence_db"
     puts "done with env"
   end
 end
