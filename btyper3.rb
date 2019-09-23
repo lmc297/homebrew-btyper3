@@ -6,7 +6,7 @@ class Btyper3 < Formula
   version "3.0.0"
   
   depends_on "blast"
-  depends_on "fastani"
+  #depends_on "fastani"
   
   bottle :unneeded 
    
