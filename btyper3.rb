@@ -2,7 +2,7 @@ class Btyper3 < Formula
   desc "A command line tool for standardized taxonomic classification of Bacillus cereus group genome assemblies"
   homepage "https://github.com/lmc297/BTyper3/"
   url "https://github.com/lmc297/BTyper3/raw/master/archive/btyper-3.1.1.tar.gz"
-  sha256 "14ec49050f660ac6f8b1124b598a681144a4873ff883da473da6e801f0e1f7e9"
+  sha256 "eac974dc5966dea28a508153a8c6253d028b11f9e30af0c5fde5e1815b0eeae5"
   version "3.1.1"
   
   depends_on "blast"
